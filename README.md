@@ -1,12 +1,11 @@
-# Project Title
- Show the local Weather
+# Project Title: Show the local Weather
 
 This project is the fourth project as part of the Free Code Camp's Front-End Developement certificate. 
 
 ## User Stories:
-1- Users can see the weather in their current location.
-2- Users can see a different weather condition icon depending on the weather.
-3- Users can toggle between Fahrenheit and Celsius by clicking on the symbol.
+- Users can see the weather in their current location.
+- Users can see a different weather condition icon depending on the weather.
+- Users can toggle between Fahrenheit and Celsius by clicking on the symbol.
 
 ## Project functionality description:
 
