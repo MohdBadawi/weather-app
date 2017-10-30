@@ -1,0 +1,32 @@
+body {
+	background: black;
+  font-family: Saira;
+	text-align: center;
+	color: white;
+}
+#fcc {
+			font-size: 4em;
+			text-shadow: 2px 2px 4px grey;
+}
+
+#weather-info {
+	margin-top: 10%;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+	width: 10%;
+	height: 10%;
+}
+#symbol {
+  color: blue;
+  text-decoration: underline;
+}
+#location {
+  font-size: 3em;
+}
+footer {
+  position: bottom;
+  margin-top: 5%; 
+}
