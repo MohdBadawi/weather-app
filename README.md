@@ -20,4 +20,4 @@ This project is the fourth project as part of the Free Code Camp's Front-End Dev
 
 # My Work
 
-You can view and use the app at: ![Weather App](https://codepen.io/MohdABadawi/full/WXboyg/)
+You can view and use the app at: [Weather App](https://codepen.io/MohdABadawi/full/WXboyg/)
