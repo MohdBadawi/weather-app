@@ -15,7 +15,7 @@ This project is the fourth project as part of the Free Code Camp's Front-End Dev
 
 ## Authors
 
-* **Moh'd Aziz Badawi** - [Mohdbadawi.me](http://Mohdbadawi.me)
+* **Moh'd B** - [Mohdbadawi.me](http://Mohdbadawi.me)
 
 ## My Work
 
